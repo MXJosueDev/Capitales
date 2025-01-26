@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 	async function fetchZoneData() {
 		const zonesResponse = await fetch(
-			`/assets/zones/${zoneSelect.value}.json`
+			`./assets/zones/${zoneSelect.value}.json`
 		);
 
 		if (zonesResponse.status !== 200) {
@@ -183,7 +183,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	}
 
 	async function setZones() {
-		zonesSettingsResponse = await fetch('/assets/zones/settings.json');
+		zonesSettingsResponse = await fetch('./assets/zones/settings.json');
 
 		if (zonesSettingsResponse.status !== 200) {
 			alert('Error loading zones settings');
