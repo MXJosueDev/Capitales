@@ -1,0 +1,131 @@
+{
+	"id": "1",
+	"name": "México",
+	"code": "mx",
+	"zones": [
+		{
+			"parent": "Aguascalientes",
+			"child": "Aguascalientes"
+		},
+		{
+			"parent": "Baja California",
+			"child": "Mexicali"
+		},
+		{
+			"parent": "Baja California Sur",
+			"child": "La Paz"
+		},
+		{
+			"parent": "Campeche",
+			"child": "Campeche"
+		},
+		{
+			"parent": "Chiapas",
+			"child": "Tuxtla Gutierrez"
+		},
+		{
+			"parent": "Chihuahua",
+			"child": "Chihuahua"
+		},
+		{
+			"parent": "Coahuila",
+			"child": "Saltillo"
+		},
+		{
+			"parent": "Colima",
+			"child": "Colima"
+		},
+		{
+			"parent": "Durango",
+			"child": "Victoria de Durango"
+		},
+		{
+			"parent": "Guanajuato",
+			"child": "Guanajuato"
+		},
+		{
+			"parent": "Guerrero",
+			"child": "Chilpancingo"
+		},
+		{
+			"parent": "Hidalgo",
+			"child": "Pachuca"
+		},
+		{
+			"parent": "Jalisco",
+			"child": "Guadalajara"
+		},
+		{
+			"parent": "Estado de Mexico",
+			"child": "Toluca"
+		},
+		{
+			"parent": "Michoacan",
+			"child": "Morelia"
+		},
+		{
+			"parent": "Morelos",
+			"child": "Cuernavaca"
+		},
+		{
+			"parent": "Nayarit",
+			"child": "Tepic"
+		},
+		{
+			"parent": "Nuevo Leon",
+			"child": "Monterrey"
+		},
+		{
+			"parent": "Oaxaca",
+			"child": "Oaxaca"
+		},
+		{
+			"parent": "Puebla",
+			"child": "Puebla"
+		},
+		{
+			"parent": "Queretaro",
+			"child": "Santiago de Queretaro"
+		},
+		{
+			"parent": "Quintana Roo",
+			"child": "Chetumal"
+		},
+		{
+			"parent": "San Luis Potosi",
+			"child": "San Luis Potosi"
+		},
+		{
+			"parent": "Sinaloa",
+			"child": "Culiacan"
+		},
+		{
+			"parent": "Sonora",
+			"child": "Hermosillo"
+		},
+		{
+			"parent": "Tabasco",
+			"child": "Villahermosa"
+		},
+		{
+			"parent": "Tamaulipas",
+			"child": "Ciudad Victoria"
+		},
+		{
+			"parent": "Tlaxcala",
+			"child": "Tlaxcala"
+		},
+		{
+			"parent": "Veracruz",
+			"child": "Xalapa"
+		},
+		{
+			"parent": "Yucatan",
+			"child": "Merida"
+		},
+		{
+			"parent": "Zacatecas",
+			"child": "Zacatecas"
+		}
+	]
+}

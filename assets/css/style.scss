@@ -1,0 +1,31 @@
+:root {
+	--rich-black: #0d1321;
+	--prusian-blue: #1d2d44;
+	--payne-gray: #3e5c76;
+	--silver-lake: #748cab;
+	--eggshell: #f0ebd8;
+}
+
+// Theme
+$primary: var(--rich-black);
+$secondary: var(--eggshell);
+
+// Body
+$body-bg: #eaeaea;
+
+// Navbar
+$navbar-light-active-color: #a1c2e8;
+
+$navbar-light-color: #c7d3e1;
+$navbar-dark-color: #c7d3e1;
+
+$navbar-light-hover-color: #7e97b3;
+$navbar-dark-hover-color: #7e97b3;
+
+// Cards
+$card-border-width: 0;
+
+// Modals
+$btn-close-color: white;
+
+@import '../bootstrap/bootstrap.scss';

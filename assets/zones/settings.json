@@ -1,0 +1,10 @@
+{
+	"default": 1,
+	"zones": [
+		{
+			"id": 1,
+            "name": "México",
+			"code": "mx"
+		}
+	]
+}

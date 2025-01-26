@@ -1,0 +1,11 @@
+{
+	"id": "1",
+	"name": "México",
+	"code": "mx",
+	"zones": [
+		{
+			"parent": "Aguascalientes",
+			"child": "Aguascalientes"
+		}
+	]
+}
